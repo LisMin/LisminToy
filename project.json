@@ -1,0 +1,15 @@
+{
+  "project_type": "javascript",
+  "debugMode" : 1,
+  "showFPS" : false,
+  "frameRate" : 60,
+  "id" : "renderCanvas",
+  "renderMode" : 0,
+  "engineDir":"frame",
+  "modules" : ["common","extras"],
+
+  "jsList" : [
+    "src/game.js",
+    "src/RaymarchingSphere.js"
+  ]
+}
