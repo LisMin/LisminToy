@@ -1,2 +1,2 @@
 # LisminToy
-https://itshcf.github.io/LisminToy/
+https://itshcf.github.io/Toy/
